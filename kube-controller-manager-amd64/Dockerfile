@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/kube-controller-manager-amd64:v1.7.3
+FROM gcr.io/google_containers/kube-controller-manager-arm64:v1.10.13
 MAINTAINER mritd <mritd@mritd.me>
